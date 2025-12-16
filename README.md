@@ -50,11 +50,10 @@ Evaluation focuses on generalization across galaxy morphologies rather than maxi
 
 ## Results
 
-- The model successfully learns morphological features from galaxy images
+- The model successfully learns morphological features from galaxy images with accuracy of 85.28% 
 - Transfer learning improves convergence and stability compared to training from scratch
 - Augmentation helps mitigate overfitting on limited labeled data
 
 ---
 
-## Repository Structure
 
